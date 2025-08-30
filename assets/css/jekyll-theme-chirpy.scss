@@ -9,3 +9,10 @@
 ';
 
 /* append your custom style below */
+.mv-header {
+  @extend %rounded;
+
+  border: 1;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+}
