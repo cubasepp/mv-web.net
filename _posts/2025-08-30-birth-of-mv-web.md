@@ -5,10 +5,10 @@ tags: [announcement, release]
 authors: [mivo]
 ---
 
-Today marks the birthday of **mv-web.net**.
-I wanted to take a moment to write down a few thoughts for myself and keep a record of this journey.
+Heute hat **mv-web.net** Geburtstag.
 
-This space will serve as a personal corner where I can share and reflect on the things that matter to me — whether it’s programming experiments, progress on my **home server project**, my passion for **motorcycling**, or stories from **traveling**.
+Ich möchte mir einen Moment Zeit nehmen, ein paar Gedanken festzuhalten und für mich zu dokumentieren.
 
-I don’t know yet where this blog will go, but that’s part of the fun. 🚀
+Dieser Ort soll eine persönliche Ecke sein, in der ich teilen und über Dinge reflektieren kann, die mir wichtig sind — sei es Programmier-Experimente, Fortschritte bei meinem **Home-Server-Projekt**, meine Leidenschaft fürs **Motorradfahren** oder Geschichten vom **Reisen**.
 
+Ich weiß noch nicht, wohin sich dieser Blog entwickeln wird, aber genau das macht den Reiz aus. 🚀

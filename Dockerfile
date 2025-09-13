@@ -12,6 +12,8 @@ RUN apt-get update -qq && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
+RUN git config --global --add safe.directory /app
+
 COPY . .
 RUN bundle install
 
